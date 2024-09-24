@@ -1,0 +1,16 @@
+# For stop the Port 3000 #
+netstat -ano | findstr :3000
+Stop-Process -Id 78867 -Force
+
+# For Git Staging & Push Daily #
+1. Check the Status of the Repository :--
+git status
+2. Stage All Changes :-- 
+git add .
+3. Git Commit :--  
+git commit -m "implement initial file and folder structure"
+4. push code :-- 
+git push origin master
+
+
+
