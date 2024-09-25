@@ -11,6 +11,9 @@ git add .
 git commit -m "implement initial file and folder structure"
 4. push code :-- 
 git push origin main
+if not run then 
+     1st :-- git pull origin main[if conflict then resolve neither push again]
+    
 
 
 
