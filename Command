@@ -10,7 +10,17 @@ git add .
 3. Git Commit :--  
 git commit -m "implement initial file and folder structure"
 4. push code :-- 
-git push origin master
+git push origin main
+
+
+
+# npm install #
+
+->
+
+-> Used for Chart in Application :--- npm install chart.js    
+-> Used for using chart By react :---  npm install react-chartjs-2
+25/09/24
 
 
 
