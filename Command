@@ -14,3 +14,13 @@ git push origin master
 
 
 
+# npm install #
+
+->
+
+-> Used for Chart in Application :--- npm install chart.js    
+-> Used for using chart By react :---  npm install react-chartjs-2
+25/09/24
+
+
+
